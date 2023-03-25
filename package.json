@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kumar1202/semantic-release-chef/issues"
   },
-  "homepage": "https://github.com/kumar1202/semantic-release-chef#readme"
+  "homepage": "https://github.com/kumar1202/semantic-release-chef#readme",
+  "dependencies": {
+    "replace-in-file": "^6.3.5"
+  }
 }
